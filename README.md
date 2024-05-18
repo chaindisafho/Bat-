@@ -5,4 +5,4 @@
 你可以在Release中或者在网址中获得最新版本
 ## 默认编译器
 地址:https://chaindisafho.github.io/BatScript/BatScript
-你可以在https://github.com/chaindisafho/BatScript中或者在网址中获得最新版本
+你可以在网址中获得最新版本
